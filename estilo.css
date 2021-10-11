@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+#containerLogin{
+	width: 350px;
+	margin-top: 10px;
+	
+}
+
+#loginbox{
+	width: 350px;
+	margin-top: 20px;
+}
+.container-fluid {
+   padding-right: 100px;
+}
+.navbar-custom {
+    background-color: #f8f1ad;
+    padding: 10px;
+}
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: #a81f44;
+}
+.btn-primary-spacing { 
+	margin-right: 5px; margin-bottom: 5px !important;
+ } 
+ 
+.testdiv{
+   grid-template-columns: 1fr 60px;
+         }
